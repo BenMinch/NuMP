@@ -1,0 +1,66 @@
+Pathway	Gene	pfam_name	nog_desc
+NCLDV_core	A32	Pox_A32	
+NCLDV_core	mcp	Capsid_NCLDV	
+NCLDV_core	PolB	DNA_pol_B	
+NCLDV_core	PolB	DNA_pol_B_exo1	
+NCLDV_core	SFII	Helicase_C	
+NCLDV_core	VLTF3	Pox_VLTF3	
+Glycolysis/Gluconeogenesis	PFK	PFK	
+Glycolysis/Gluconeogenesis	PGM	His_Phos_1	
+Glycolysis/Gluconeogenesis	GAPDH	Gp_dh_C	glyceraldehyde3phosphate dehydrogenase
+Glycolysis/Gluconeogenesis	PEPCK	PEPCK_ATP	Phosphoenolpyruvate Carboxylase
+Glycolysis/Gluconeogenesis	FBP1	FBPase	
+Glycolysis/Gluconeogenesis	FBP1	FBPase_C	
+TCA_cycle	Citrate Synthase	Citrate_synt	
+TCA_cycle	Citrate Synthase	Citrate_bind	
+TCA_cycle	Aconitase	Aconitase_2_N	
+TCA_cycle	Aconitase	Aconitase_B_N	
+TCA_cycle	Aconitase	Aconitase	
+TCA_cycle	Isocitrate lyase	ICL	Isocitrate lyase
+TCA_cycle	Malate synthase	Malate_synthase	
+TCA_cycle	SDH	Sdh_cyt	Or succinate dehydrogenase
+TCA_cycle	SDH	CybS	
+Pentose phosphate pathway	6PGD	6PGD	6-phosphogluconate dehydrogenase
+Pentose phosphate pathway	6PGD	IlvN	
+Pentose phosphate pathway	6PGD	NAD_binding_2	
+Pentose phosphate pathway	Transaldolase	TAL_FSA	
+Pentose phosphate pathway	Transketolase	Transket_pyr	
+Pentose phosphate pathway	Transketolase	Transketolase_N	
+Light Harvesting	LHCB	Chloroa_b-bind	early light-induced protein
+Light Harvesting	Rhodopsin	Bac_rhodopsin	
+Beta oxidation	ACAD	Acyl-CoA_dh_1	acyl-CoA dehydrogenase
+Cytoskeleton	Actin	SWIB	
+Cytoskeleton	Kinesin	Kinesin	
+Cytoskeleton	Myosin	Tropomyosin	
+Cytoskeleton	Myosin	Tropomyosin_1	
+Cytoskeleton	Myosin	Myosin_head	
+Transporter	Mg2+ transporter	CorA	
+Transporter	Amino acid transporter	AA_permease_N	
+Transporter	Amino acid transporter	AA_permease_2	
+Transporter	Amino acid transporter	AA_permease	
+Transporter	Ammonium transporter	Ammonium_transp	
+Transporter	Sulfite exporter	TauE	
+Transporter	VIT family transporter	VIT1	
+Transporter	K+ channel	Ion_trans_2	
+Transporter	LCM channel	MscL	
+Transporter	Phosphate transporter	PHO4	
+DNA processing	Histone	Histone	
+DNA processing	Histone	Linker_histone	
+DNA processing	Histone	Hc1	
+DNA processing	Histone	HC2	
+DNA processing	HAT	Radical_SAM_C	Histone acetyltransferase
+DNA processing	Photolyase	DPRP	
+DNA processing	Photolyase	FAD_binding_7	
+DNA processing	MutS	MutS_V	
+DNA processing	MutS	MutS_III	
+DNA processing	MutS	MutS_I	
+Nutrient metabolism	Ferritin	Ferritin	
+Nutrient metabolism	Glutaminase	Glutaminase	
+Nutrient metabolism	Glutamine synthetase	Gln-synt_C	
+Nutrient metabolism	Pho regulon protein	Response_reg	
+Oxidative stress regulation	GST	GST_C_3	
+Oxidative stress regulation	Superoxide dismutase	Sod_Cu	
+Oxidative stress regulation	Heat shock protein	HSP20	
+Oxidative stress regulation	Heat shock protein	DnaJ	
+Oxidative stress regulation	Heat shock protein	HSP70	
+Oxidative stress regulation	Heat shock protein	HSP90	
