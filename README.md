@@ -10,7 +10,7 @@ A program to quickly and thouroughly visualize the metabolic and functional pote
 ## Installation
 
 Simply clone this repository to get the program up and running.
-'git clone https://github.com/BenMinch/NuMP' 
+`git clone https://github.com/BenMinch/NuMP` 
 
 ### Getting the database
 NuMP uses the PFAM hmm database. You will need to download that https://www.ebi.ac.uk/interpro/download/Pfam/ . Make sure you download the PFAM-A-models file. After downloading it, rename the file Pfam.hmm and store the database in a folder called 'hmm'. You will also need to press the file with hmmpress `hmmpress Pfam.hmm`. 
