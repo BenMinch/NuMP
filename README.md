@@ -1,4 +1,5 @@
 # NuMP: Nucleocytovirotica Metabolic Profiler
+![alt text](https://github.com/BenMinch/NuMP/blob/main/NumP_logo.png)
 A program to quickly and thouroughly visualize the metabolic and functional potential of Nucleocytovirotica genomes in a dataset. NuMP is based off of analysis done in Ha, A. D., Moniruzzaman, M., & Aylward, F. O. (2021). High transcriptional activity and diverse functional repertoires of hundreds of giant viruses in a coastal marine system. MSystems, 6(4), e00293-21.
 
 ## Dependencies
@@ -29,6 +30,7 @@ NuMP uses the PFAM hmm database. You will need to download that https://www.ebi.
 3. bubble_family/genomes.pdf: A bubble plot with the functional profiling of your genomes or families.
 4. Prodigal folder: all protein and gene predictions for your genomes.
 
+![alt text](https://github.com/BenMinch/NuMP/blob/main/bubble_family-1.png)
 ### Example run
 
 `python NuMP.py -i Genomes -o Genomes_NuMP -t genome_taxonomy.tsv -mode both`
