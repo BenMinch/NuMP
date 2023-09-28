@@ -1,6 +1,6 @@
-# NuMP: Nucleocytovirotica Metabolic Profiler
+# NuMP: Nucleocytoviricota Metabolic Profiler
 ![alt text](https://github.com/BenMinch/NuMP/blob/main/NumP_logo.png)
-A program to quickly and thouroughly visualize the metabolic and functional potential of Nucleocytovirotica genomes in a dataset. NuMP is based off of analysis done in Ha, A. D., Moniruzzaman, M., & Aylward, F. O. (2021). High transcriptional activity and diverse functional repertoires of hundreds of giant viruses in a coastal marine system. MSystems, 6(4), e00293-21.
+A program to quickly and thouroughly visualize the metabolic and functional potential of Nucleocytoviricota (giant virus) genomes in a dataset. NuMP is based off of analysis done in Ha, A. D., Moniruzzaman, M., & Aylward, F. O. (2021). High transcriptional activity and diverse functional repertoires of hundreds of giant viruses in a coastal marine system. MSystems, 6(4), e00293-21.
 
 ## Dependencies
 1. HMMER (v3.3.2)
