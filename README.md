@@ -35,7 +35,7 @@ NuMP uses the PFAM hmm database. You will need to download that https://www.ebi.
 
 `python NuMP.py -i Genomes -o Genomes_NuMP -t genome_taxonomy.tsv -mode both`
 
-# Copywright
+# Copyright
 NuMP Copyright (C) 2023 Benjamin Minch
 
 This program is free software: you can redistribute it and/or modify it under the terms of the MIT License.
